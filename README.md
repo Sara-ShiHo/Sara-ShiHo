@@ -2,4 +2,4 @@
 
 👩🏻‍🎓 I'm graduating from Northwestern University with an MS degree this December!
 
-👩🏻‍💻 Currently pursuing full-time roles in Data Science + Data Engineering
+👩🏻‍💻 Currently pursuing a full-time role in Data Science + Data Engineering

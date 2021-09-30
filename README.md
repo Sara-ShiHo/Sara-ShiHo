@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-I'm a graduate student at Northwestern
+👩🏻‍🎓 I'm graduating from Northwestern University with an MS degree this December!
+👩🏻‍💻 Currently pursuing full-time roles in Data Science + Data Engineering
